@@ -1,0 +1,4 @@
+Properties of PEEK
+https://www.makeitfrom.com/material-properties/Polyetheretherketone-PEEK
+# SI Units
+K = 0.4
